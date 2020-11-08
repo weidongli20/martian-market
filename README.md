@@ -14,4 +14,4 @@ Each landmark will be a unique ERC721 token, with its own metadata including the
 
 ### Demo App
 
-Click [here](frontend/index.html) to launch the CryptoRight application.
+Click [here](index.html) to launch the CryptoRight application.
