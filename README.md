@@ -12,3 +12,6 @@ This can be done by putting the token transfer in the `endAuction` function that
 
 Each landmark will be a unique ERC721 token, with its own metadata including the landmark `name` and `image` URL.
 
+### Demo App
+
+Click [here](frontend/index.html) to launch the CryptoRight application.
