@@ -6,7 +6,7 @@
 
 ## Technology Stack
 
-- Solidity
+- Solidity, JavaScript, HTML
 
 ## About
 
@@ -16,7 +16,7 @@
 
 ## Demo App
 
-Click [here](https://weidongli20.github.io/martian-market/frontend/index.html) to launch the MartianMarket application
+Please use Google Chrome to open this page and Click [here](https://weidongli20.github.io/martian-market/frontend/index.html) to launch the MartianMarket application
 
 ## Installation Instructions
 
