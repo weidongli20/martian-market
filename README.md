@@ -1,17 +1,49 @@
 # MartianMarket
 
+## Contributors
+
+@weidongli20
+
+## Technology Stack
+
+- Solidity
+
+## About
+
 ![mars](https://image.shutterstock.com/image-photo/silhouette-astronaut-standing-on-rocky-600w-1049625047.jpg)
 
-The system will be a combination of an ERC721 contract and an Auction contract combined to form the MartianMarket contract to develop a system to raise funds for Martian land development.
+- The system will be a combination of an ERC721 contract and an Auction contract combined to form the MartianMarket contract to develop a system to raise funds for Martian land development.
 
-The foundation will be able to register new landmarks with their account, minting and creating a new auction for the landmark.
-When the `endAuction` function is called, the auction will complete and the token will be transferred to the highest bidder.
+## Demo App
 
-The functions of the contract can be designed to have the foundation pay for the most expensive functions like`safeTransferFrom`.
-This can be done by putting the token transfer in the `endAuction` function that only the foundation can call.
+Click [here](./frontend/index.html) to launch the MartianMarket application
 
-Each landmark will be a unique ERC721 token, with its own metadata including the landmark `name` and `image` URL.
+## Installation Instructions
 
-[//]: # "### Demo App"
+1. Clone the repository
+2. Install dependencies
+3. Run local http server (e.g. python -m http.server 8000)
 
-[//]: # "Click [here](index.html) to launch the CryptoRight application."
+## Screenshots
+
+Register Page
+![shot1](./Images/shot-1.png)
+
+Bid Page
+![shot2](./Images/shot-2.png)
+
+Withdraw Page
+![shot3](./Images/shot-3.png)
+
+## License
+
+- MIT
+
+## Contact
+
+#### Developer/FinTech Developer
+
+- Name: wei (@weidongli20)
+- e-mail: 4531holly@gmail.com
+- Github: [​https://github.com/weidongli20](​https://github.com/weidongli20)
+- LinkedIn: [https://www.linkedin.com/in/weidongli20/](http://www.linkedin.com/in/weidongli20)
