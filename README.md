@@ -45,5 +45,5 @@ Withdraw Page
 
 - Name: wei (@weidongli20)
 - e-mail: 4531holly@gmail.com
-- Github: [​https://github.com/weidongli20](​https://github.com/weidongli20)
+- Github: [https://github.com/weidongli20](https://github.com/weidongli20)
 - LinkedIn: [https://www.linkedin.com/in/weidongli20/](http://www.linkedin.com/in/weidongli20)
