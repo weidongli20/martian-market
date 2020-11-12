@@ -16,7 +16,7 @@
 
 ## Demo App
 
-Click [here](https://weidongli20.github.io/martian-market/) to launch the MartianMarket application
+Click [here](./frontend/index.html) to launch the MartianMarket application
 
 ## Installation Instructions
 
